@@ -1,0 +1,45 @@
+//This is a comment
+@DOC: Variable: int x
+    This is a documentation comment
+@END
+
+//Variable Declarations
+
+int integer = 0;
+float floatingPoint = 1.5;
+string words = "Hello World!";
+bool boolean = true;
+
+
+//Basic for loop
+
+for(int i = 0; i < 10; i++){
+    int body1 = 15;
+};
+
+//Arrays and array methods
+
+int[] array = [1,2,3,4,5];
+array[0]=5;
+array[0];
+array.pop();
+array.pop_back();
+array.sum();
+array.push(4);
+array.push_back(5);
+array.min();
+array.max();
+array.reverse();
+array.delete_duplicates();
+array.randomize();
+array.pop(5);
+
+//Basic file input and outputs
+
+string file1name = "input.txt";
+string file2name = "output.txt";
+File input = infile(file1name);
+File output = outfile(file2name);
+
+//Print function
+print(words);

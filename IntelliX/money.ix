@@ -1,0 +1,3 @@
+float[] money = [101.87, 185.08,9191,1919,1919];
+float total = money.sum();
+float avg = total/money.count();

@@ -1,0 +1,12 @@
+//int j = 10;
+//for(j; j > 0; j--){
+//    int body = 2;
+//};
+//for(int i = 0; i < 10; i++){
+//    int body1 = 15;
+//};
+
+int contents = 0;
+for(int i = 0; i <= 10; i++){
+    contents = 10;
+};

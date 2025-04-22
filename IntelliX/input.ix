@@ -1,0 +1,13 @@
+int x;
+int y;
+int z;
+float f;
+string s;
+string name;
+string name1;
+bool b;
+//input(x, y, z);
+//input("Name:", s, name, name1);
+string filename = "test.txt";
+infile(filename);
+outfile(filename);
