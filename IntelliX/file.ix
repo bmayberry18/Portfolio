@@ -1,0 +1,4 @@
+string file1name = "input.txt";
+string file2name = "output.txt";
+File input = infile(file1name);
+File output = outfile(file2name);

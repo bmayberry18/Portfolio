@@ -1,0 +1,5 @@
+int func(){
+    int var1 = x;
+};
+float func1(){};
+string func2(){};

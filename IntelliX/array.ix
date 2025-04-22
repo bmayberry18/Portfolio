@@ -1,0 +1,14 @@
+int[] i1 = [1,2,3,4,5];
+i1[0]=5;
+i1[0];
+i1.pop();
+i1.pop_back();
+i1.sum();
+i1.push(4);
+i1.push_back(5);
+i1.min();
+i1.max();
+i1.reverse();
+i1.delete_duplicates();
+i1.randomize();
+i1.pop(5);

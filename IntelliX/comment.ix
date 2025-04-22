@@ -1,0 +1,14 @@
+// This is a comment
+string comment = "Comment";
+/*
+This is a blocked comment;
+*/
+string block_comment = "Block Comment";
+
+@DOC: Function: float Sum(int x, int y)
+    This is a documentation comment
+@END
+
+@DOC: Variable: int x
+    This is a documentation comment
+@END

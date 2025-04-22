@@ -1,0 +1,11 @@
+bool var1 = true;
+int var2 = 1;
+float var3 = 3.3;
+string var4 = "string";
+(bool)var2;
+(bool)var3;
+(bool)var4;
+print(var1);
+print(var2);
+print(var3);
+print(var4);

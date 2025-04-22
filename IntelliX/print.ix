@@ -1,0 +1,4 @@
+string x = "Hello";
+print(f"{x} World!");
+print(10);
+print(x);
